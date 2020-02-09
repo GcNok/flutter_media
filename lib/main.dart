@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'header.dart';
-import 'title_section.dart';
+import 'widgets/header.dart';
+import 'widgets/title_section.dart';
 
 void main() => runApp(MyApp());
 
